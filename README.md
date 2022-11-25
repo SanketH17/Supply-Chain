@@ -1,5 +1,7 @@
 # Supply-Chain
 This project manages all minor functionalities between buyer and seller
+
+Used **Java and JavaFX** to implement this project.
 ___
 **This project contains following pages and functionalities**
 ___
