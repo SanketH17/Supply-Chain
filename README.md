@@ -20,7 +20,7 @@ ___
 ![4 0](https://user-images.githubusercontent.com/78288577/203984900-d2ccd930-731c-423f-9b64-a2191ad59228.png)
 ![4 1](https://user-images.githubusercontent.com/78288577/203985005-7e9d00e9-1d69-4ac6-8557-cb418e3235ef.png)
 ___
-## SELLER 
+## BUYER 
 ## 1. Login first
 ![5 0](https://user-images.githubusercontent.com/78288577/203985972-0884621c-f056-4a9e-8f6d-0ecd422efdfc.png)
 ![5](https://user-images.githubusercontent.com/78288577/203985981-f91a6ddc-09fb-4453-85f7-f992ddf498bf.png)
