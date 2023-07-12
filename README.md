@@ -1,7 +1,15 @@
-# Supply-Chain
-This project manages all minor functionalities between buyer and seller
+## Supply-Chain Management System
 
-Used **Java and JavaFX** to implement this project.
+**Tech Stack: Java, JavaFX, MySQL, JDBC**
+
+- Developed a comprehensive **Supply-Chain Management system** that efficiently handles essential **CRUD operations** and facilitates seamless interactions between buyers and sellers.
+- Implemented robust **login authentication** to ensure secure access to the system's functionalities.
+- Utilized **Java** and **JavaFX** for the frontend development, creating an intuitive and user-friendly interface.
+- Leveraged **MySQL** as the backend database, utilizing **JDBC** for efficient data retrieval and manipulation.
+- Designed and implemented the system to effectively manage various aspects of the supply chain, streamlining processes and enhancing overall efficiency.
+- Received positive feedback for the project's ability to handle complex supply chain operations, demonstrating strong problem-solving and analytical skills.
+
+The Supply-Chain Management system project exemplifies my expertise in **Java**, **JavaFX**, **MySQL**, and **database connectivity**, along with my ability to develop user-friendly and efficient solutions for complex business processes.
 ___
 **This project contains following pages and functionalities**
 ___
